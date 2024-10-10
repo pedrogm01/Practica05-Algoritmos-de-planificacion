@@ -1,0 +1,12 @@
+Google Chrome, 11, 2, 1
+Slack, 8, 3, 3
+Registry, 6, 7, 2
+Inicio, 3, 5, 4
+Shell, 6, 3, 5
+Host de Servicio, 10, 1, 1
+Microsoft Text, 7, 2, 4
+System, 8, 4, 3
+Wininit, 1, 1, 2
+smss, 2, 3, 3
+pedrogm,5,0,5
+pedrogm2,10,0,5
